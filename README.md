@@ -2,7 +2,7 @@
 
 🎓 **MIT** — EIT Auckland, New Zealand *(2026 – 2027)*  
 💼 Senior Software Engineer → **AI/ML Engineer** (in transition)  
-🏢 6+ years enterprise experience | Singapore · Sri Lanka · New Zealand  
+🏢 6+ years enterprise experience | Singapore · Sri Lanka  
 🤖 Building AI/ML portfolio on top of a strong engineering foundation
 
 ---
