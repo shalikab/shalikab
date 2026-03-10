@@ -98,14 +98,12 @@ IFS R&D Pvt Ltd                         Mar 2019 – May 2020
 
 ---
 
-## 🎯 2026–2027 Goals
+## 🌏 Currently
 
-- ✅ Set up Python + AI development environment
-- ✅ Build first ML project (House Price Predictor)
-- ⬜ Complete Andrew Ng ML Specialization (Coursera)
-- ⬜ Build Security Log Anomaly Detector
-- ⬜ Earn AWS ML Specialty certification
-- ⬜ Land AI/ML Engineer role in New Zealand 🇳🇿
+- 🎓 Studying MIT at EIT Auckland, New Zealand
+- 🤖 Building AI/ML portfolio combining enterprise Java experience with machine learning
+- 📚 Deepening skills in Python, scikit-learn, PyTorch and MLOps
+- 💼 Available for part-time IT roles in Auckland (25 hrs/week)
 
 ---
 
