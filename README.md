@@ -95,12 +95,6 @@ IFS R&D Pvt Ltd                         Mar 2019 – May 2020
 - 🏆 **Top Talent Award** — Persistent Systems FY22
 - 🇯🇵 **JLPT N5 Grade A** — Japanese Language Proficiency (Highest Grade)
 
----
-
-## 📊 GitHub Stats
-
-![Shalika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shalikab&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shalikab&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
